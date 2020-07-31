@@ -1,0 +1,19 @@
+Name: Player1, Score: 1360
+Name: Player2, Score: 1345
+Name: Player8, Score: 1066
+Name: Player7, Score: 1002
+Name: Player9, Score: 992
+Name: Player10, Score: 967
+Name: Player6, Score: 916
+Name: Player4, Score: 649
+Name: sudarshan, Score: 400
+Name: sudarshan, Score: 250
+Name: Player3, Score: 116
+Name: Sudarshan S, Score: 100
+Name: siddharth the great , Score: 100
+Name: Player5, Score: 95
+Name: Sudarshan, Score: 0
+Name: sk, Score: -150
+Name: siddharth the great , Score: -200
+Name: siddharth the great , Score: -300
+Name: siddharth the great , Score: -400
